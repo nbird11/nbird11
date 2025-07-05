@@ -15,7 +15,7 @@ I'm a recently-graduated Software Engineer passionate about coding fun 🍴 (see
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbird11&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-## 🚀 Current Projects
+## 🚀 Active Projects
 
 - ✍️ QuickPen, a productivity tool for writers to overcome writer's block (see [QuickPen Homepage](https://quickpen.web.app/))
 - 🪑 A seating chart application inspired by draw.io for my friend who's a teacher
