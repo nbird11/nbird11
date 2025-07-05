@@ -17,7 +17,7 @@ I'm a recently-graduated Software Engineer passionate about coding fun 🍴 (see
 
 ## 🚀 Active Projects
 
-- ✍️ QuickPen, a productivity tool for writers to overcome writer's block (see [QuickPen Homepage](https://quickpen.web.app/))
+- ✍️ QuickPen, a productivity tool for writers to overcome writer's block (see [QuickPen Homepage](https://quickpen.web.app/home))
 - 🪑 A seating chart application inspired by draw.io for my friend who's a teacher
 - 🃏 An online score sheet for the card game "Back Alley" (see [back-alley](https://github.com/nbird11/back-alley))
 
