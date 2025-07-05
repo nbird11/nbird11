@@ -12,7 +12,7 @@ I'm a recently-graduated Software Engineer passionate about coding fun 🍴 (see
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbird11&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbird11&size_weight=0.5&count_weight=0.5&langs_count=12&hide=TeX&layout=pie&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ## 🚀 Active Projects
