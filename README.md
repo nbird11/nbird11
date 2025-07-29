@@ -68,6 +68,7 @@ I'm a recently-graduated Software Engineer passionate about coding fun 🍴 (see
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="badge" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="badge" />
       <img src="https://img.shields.io/badge/Zsh-252A34?style=for-the-badge&logo=zsh&logoColor=white" alt="badge" />
+      <img src="https://shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=1868DB" alt="badge" />
     </td>
   </tr>
    <tr>
