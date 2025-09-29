@@ -1,4 +1,4 @@
-# Whattup
+# Nathan A. Bird
 
 I'm a recently-graduated Software Engineer passionate about coding fun 🍴 (see [dining-philosophers](https://github.com/nbird11/dining-philosophers)), useful 🛠️ (to me at least, see [punch-pwsh](https://github.com/nbird11/punch-pwsh)), and/or technically challenging 🧠 (see [unordered_set](https://github.com/nbird11/unordered_set-cpp-stl)) programs.
 
